@@ -9,3 +9,7 @@ I know I need to plit the array into indvidual words, and that I need to compare
 # Blocker
 
 I am stuck on getting out of the first value of [i]. The concept seems simple, but ([i@0] always equals [j@0]) so I am stuck on the first word in the array. Help need...
+
+# Edit
+
+Fixed, have a working soultion.
